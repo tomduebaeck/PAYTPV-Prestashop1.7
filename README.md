@@ -5,7 +5,7 @@ Ofrece la posibilidad de cobrar a tus clientes con tarjeta en tiendas Prestashop
 
 ## Documentación del Módulo.
 
-En el siguiente enlace [Modulo Prestashop PAYTPV](http://developers.paytpv.com/es/modulos-de-pago/prestashop17)
+En el siguiente enlace [Modulo Prestashop PAYTPV](https://docs.paycomet.com/es/modulos-de-pago/prestashop)
 
 ## Instalación
 
@@ -14,7 +14,7 @@ Pulsamos en Añadir nuevo modulo y seleccionamos el zip descargado.
 
 ## Configuración del Módulo
 
-Rellenaremos los datos según la configuracion disponible en PayTPV. https://paytpv.com/ → Mis productos → configurar productos y seleccionamos el producto que vayamos a configurar en nuestra tienda Prestashop.
+Rellenaremos los datos según la configuracion disponible en PayTPV. https://paycomet.com/ → Mis productos → configurar productos y seleccionamos el producto que vayamos a configurar en nuestra tienda Prestashop.
 
 ### Entorno: 
 
@@ -42,7 +42,7 @@ IMPORTANTE: En la configuración del modulo se indican las URL OK, URL OK y URL 
 
 ## Configuración del producto en PayTPV
 
-Accedemos a nuestro area de clientes en https://paytpv.com/ → Mis productos → configurar productos Y seleccionamos el producto que vayamos a configurar en nuestra tienda Prestashop.
+Accedemos a nuestro area de clientes en https://paycomet.com/ → Mis productos → configurar productos Y seleccionamos el producto que vayamos a configurar en nuestra tienda Prestashop.
 En URL OK (cobro con éxito) indicaremos la Url OK que se muestra en la configuración del producto
 En URL KO (error en el cobro) indicaremos la Url KO que se muestra en la configuración del producto
 
